@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Stats\n"
+"POT-Creation-Date: 2013-09-20 20:41+0200\n"
+"PO-Revision-Date: 2013-09-20 20:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: user-stats.php:296 views/options.php:29
+msgid "Settings"
+msgstr ""
+
+#: views/options.php:16
+msgid "Options successfully updated!"
+msgstr ""
+
+#: views/options.php:28
+msgid "User Stats"
+msgstr ""
+
+#: views/options.php:273
+msgid "Overview"
+msgstr ""
+
+#: views/options.php:285
+msgid "Click to combine stats"
+msgstr ""
+
+#: views/options.php:287 views/options.php:321
+msgid "Author"
+msgstr ""
+
+#: views/options.php:288 views/options.php:447
+msgid "Role"
+msgstr ""
+
+#: views/options.php:289 views/options.php:452
+msgid "# Articles"
+msgstr ""
+
+#: views/options.php:290 views/options.php:456
+msgid "Total Views"
+msgstr ""
+
+#: views/options.php:291 views/options.php:460
+msgid "Avg. Views"
+msgstr ""
+
+#: views/options.php:292
+msgid "/Article"
+msgstr ""
+
+#: views/options.php:293
+msgid "Total"
+msgstr ""
+
+#: views/options.php:293
+msgid " for Articles"
+msgstr ""
+
+#: views/options.php:294 views/options.php:296
+msgid "Avg."
+msgstr ""
+
+#: views/options.php:294 views/options.php:327
+msgid "/View"
+msgstr ""
+
+#: views/options.php:295 views/options.php:296
+msgid "/1000 Views"
+msgstr ""
+
+#: views/options.php:311 views/options.php:489
+msgid "Posts"
+msgstr ""
+
+#: views/options.php:323 views/options.php:491
+msgid "Article"
+msgstr ""
+
+#: views/options.php:324 views/options.php:495
+msgid "Date Published"
+msgstr ""
+
+#: views/options.php:325 views/options.php:499
+msgid "Category"
+msgstr ""
+
+#: views/options.php:326 views/options.php:503
+msgid "Views"
+msgstr ""
+
+#: views/options.php:328
+msgid "/1000"
+msgstr ""
+
+#: views/options.php:351 views/options.php:526
+msgid "Save Changes"
+msgstr ""
+
+#: views/options.php:356
+msgid "Display Currency"
+msgstr ""
+
+#: views/options.php:359
+msgid "Enter a currency symbol"
+msgstr ""
+
+#: views/options.php:368
+msgid "Price per article"
+msgstr ""
+
+#: views/options.php:391
+msgid "Price per 1000 views"
+msgstr ""
+
+#: views/options.php:413
+msgid "Add/remove Users"
+msgstr ""
+
+#: views/options.php:414
+msgid "Tick the box to <strong>remove</strong> a user from the display"
+msgstr ""
+
+#: views/options.php:442
+msgid "Add/remove Columns"
+msgstr ""
+
+#: views/options.php:443
+msgid "Tick the box to <strong>remove</strong> a column"
+msgstr ""
+
+#: views/options.php:445
+msgid "Overview Columns"
+msgstr ""
+
+#: views/options.php:464
+msgid "$/Article"
+msgstr ""
+
+#: views/options.php:468
+msgid "Total $ for Articles"
+msgstr ""
+
+#: views/options.php:472
+msgid "Avg. $/View"
+msgstr ""
+
+#: views/options.php:476
+msgid "$/1000 Views"
+msgstr ""
+
+#: views/options.php:480
+msgid "Avg. $/1000 Views"
+msgstr ""
+
+#: views/options.php:507
+msgid "$/Views"
+msgstr ""
+
+#: views/options.php:511
+msgid "$/1000"
+msgstr ""

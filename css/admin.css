@@ -1,0 +1,196 @@
+
+.asz_ind { display:none; }
+/*
+.asz_ind_posts  { display:none; }
+*/
+
+#usn_e { float:right; }
+
+.asz_table {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+}
+.asz_table tbody tr:hover td {
+color: #009;
+background: #EEE;
+}
+
+.asz_edit {
+	float:right;
+	font-size:10px;
+	color:#999;
+}
+
+.asz_reset {
+	/*background: url(../images/delete.png) top left no-repeat;*/
+	height: 16px;
+	width: 16px;
+	min-height: 16px;
+	min-width: 16px;
+	display: block;
+	float: right;
+	opacity:0.15;
+}
+.asz_reset:hover {
+	opacity:1;
+	cursor:pointer;
+}
+
+.asz_option_label { width:178px;}
+
+#asz_title { width:35%; display:inline-block; }
+
+.byap { float:right; }
+
+
+.asz_article_column {}
+
+#statz_single_author_articles_table {
+width:100%; table-layout: fixed;
+}
+
+.row-title.tablesorter-header {
+width: 30%;
+}
+#asz_running_total {
+display:none;
+font-weight:bold;
+}
+
+#asz_refresh{ display:none; }
+
+#user_stats_loading {
+display:none;
+margin-bottom: -7px;
+height: 29px;
+}
+
+/*profile specific*/
+
+.asz_profile_table {
+	max-width: 800px;
+}
+
+/*************
+  Tablesorter code
+ *************/
+/* overall */
+.tablesorter-blue th,
+.tablesorter-blue td {
+	border: #cdcdcd 1px solid;
+	border-width: 0 1px 1px 0;
+}
+
+.tablesorter-blue .header,
+.tablesorter-blue .tablesorter-header {
+	background-repeat: no-repeat;
+	background-position: center right;
+	white-space: normal;
+	cursor: pointer;
+}
+
+.tablesorter-blue th:hover {
+	background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjB+gC+jP2ptn0WskLQA7);
+}
+
+.tablesorter-blue .headerSortUp,
+.tablesorter-blue .tablesorter-headerSortUp,
+.tablesorter-blue .tablesorter-headerAsc {
+	background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjI8Bya2wnINUMopZAQA7);
+}
+.tablesorter-blue .headerSortDown,
+.tablesorter-blue .tablesorter-headerSortDown,
+.tablesorter-blue .tablesorter-headerDesc {
+	background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjB+gC+jP2ptn0WskLQA7);
+}
+.tablesorter-blue thead .sorter-false {
+	background-image: none;
+	padding: 4px;
+}
+
+.asz_profile_table tfoot td{ background-image:none; }
+#statz_overview tfoot td{ background-image:none; }
+
+#asz_bottom_total td { background-image: none !important;}
+
+#asz_goto_totals {}
+
+.asz_totals td { font-weight: bold; }
+
+
+/* settings styles */
+
+.userstats_settings_style {
+border: thin solid;
+background-color: #f5f5f5;
+border-color: #ccc;
+padding: 4px;
+margin: 20px 20px 20px 0;
+border-radius: 4px;
+width:100%;
+float:left;
+min-height: 150px;
+}
+
+.user_stats_submit {
+clear:both;
+}
+
+
+ .asz_addremove_options {
+ 	float: left;
+ }
+  .asz_addremove_options table {
+  	margin: 0 auto;
+ }
+ #asz_addremove_admin,
+ #asz_rename_admin {
+ 	margin-right: 60px;
+ }
+
+ #asz_rename_admin h3,
+ #asz_rename_front h3 { text-align: center;}
+
+
+#asz_price_per_article_option {
+	margin-right: 60px;
+}
+#asz_price_per_thousand_option {}
+.asz_price_per_options {
+	float: left;
+}
+
+
+#usn_message {
+	text-align:center;
+	padding: 20px;
+	background-color: #58BFCF;
+	border: #388794 thin solid;
+	margin: 20px 0 0 0;
+	border-radius: 6px;
+	color: #fff;
+	/*font-weight: bold;*/
+	font-size: 16px;
+	font-family: verdana;
+}
+
+#usn,
+#usn_a {
+	float:right;
+	font-size:12px;
+	padding-left:10px;
+}
+
+#usn_e {
+	cursor:pointer;
+}
+
+#usn_imgs {
+	text-align:center;
+	margin:0 auto;
+}
+
+.usn_img img {
+	width: 150px;
+	margin:0 20px;
+}
+
